@@ -39,10 +39,10 @@ function main() {
   const CStateBuilding = 4
   const CStateCarpeting = 5
 
-  let ArgUsername = 'user'
-  let ArgVersion = '1.16.5'
-  let ArgHost = '127.0.0.1'
-  let ArgPort = 25565
+  let ArgUsername = 'Adrian'
+  let ArgVersion = '1.20.1'
+  let ArgHost = 'DS_Cliox.aternos.me'
+  let ArgPort = 50579
   let ArgMaxSeekDistance = 70;
   let ArgStateAfterSpawn = CStateIdle
 
